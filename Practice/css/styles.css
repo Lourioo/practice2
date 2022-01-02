@@ -1,0 +1,16 @@
+body {
+  background-color: #c6c1b9;
+}
+hr {
+  background-color:white;
+  heigth:2px;
+}
+h2, h3 {
+  color: #363945;
+}
+td {
+  border: 1px solid #363945;
+}
+input, textarea {
+  background-color: #FFFAF0;
+}
